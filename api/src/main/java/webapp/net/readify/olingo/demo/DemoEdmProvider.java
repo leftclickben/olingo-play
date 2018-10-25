@@ -1,4 +1,4 @@
-package main.webapp.net.readify.olingo.demo;
+package webapp.net.readify.olingo.demo;
 
 import org.apache.olingo.commons.api.edm.EdmPrimitiveTypeKind;
 import org.apache.olingo.commons.api.edm.FullQualifiedName;

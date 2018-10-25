@@ -1,7 +1,7 @@
-package main.webapp.net.readify.olingo.demo.web;
+package webapp.net.readify.olingo.demo.web;
 
-import main.webapp.net.readify.olingo.demo.DemoEdmProvider;
-import main.webapp.net.readify.olingo.demo.service.DemoEntityCollectionProcessor;
+import webapp.net.readify.olingo.demo.DemoEdmProvider;
+import webapp.net.readify.olingo.demo.service.DemoEntityCollectionProcessor;
 import org.apache.olingo.server.api.OData;
 import org.apache.olingo.server.api.ODataHttpHandler;
 import org.apache.olingo.server.api.ServiceMetadata;

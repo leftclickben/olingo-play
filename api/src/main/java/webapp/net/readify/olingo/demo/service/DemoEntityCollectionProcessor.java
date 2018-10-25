@@ -1,6 +1,6 @@
-package main.webapp.net.readify.olingo.demo.service;
+package webapp.net.readify.olingo.demo.service;
 
-import main.webapp.net.readify.olingo.demo.DemoEdmProvider;
+import webapp.net.readify.olingo.demo.DemoEdmProvider;
 import org.apache.olingo.commons.api.data.*;
 import org.apache.olingo.commons.api.edm.EdmEntitySet;
 import org.apache.olingo.commons.api.edm.EdmEntityType;
